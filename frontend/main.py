@@ -122,7 +122,7 @@ def main() -> None:
         print("7. Transferência")
         print("8. Render Juros (Conta Poupança)")
         print("0. Sair")
-        
+
         opcao = input("Escolha uma opção: ")
 
         try:
